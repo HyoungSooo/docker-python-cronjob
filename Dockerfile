@@ -5,3 +5,4 @@ WORKDIR /app
 COPY ./requirements.txt /app
 
 RUN python -m pip install requests
+RUN python -m pip install bardapi

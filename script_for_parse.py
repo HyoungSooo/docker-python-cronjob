@@ -1,1 +1,0 @@
-<your python script here>
